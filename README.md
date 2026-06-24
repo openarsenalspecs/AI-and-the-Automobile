@@ -1,0 +1,124 @@
+# Open Arsenal  AI and the Autombile Specifications
+
+The **AI and the Automobile** collection defines a set of specifications for embedding AI into modern automotive systems, reframing vehicles as software-driven platforms where intelligence operates across sensing, decision-making, navigation, and energy systems. It highlights the move toward real-time, safety-critical computing architectures that replace fixed mechanical behavior with adaptable, continuously updated software logic.
+
+Across the specifications, the focus is on building automotive AI through open, interoperable frameworks supported by rigorous safety engineering. This includes shared development practices, simulation-based testing, validation pipelines, and human oversight to manage uncertainty and edge cases. Together, the system is designed as a layered model of autonomy, redundancy, diagnostics, and secure updates to enable dependable large-scale deployment.
+
+## Automotive Specs
+
+- **AIChauffeur**  
+[https://roxanneardary.com/aichauffeur/](https://roxanneardary.com/aichauffeur/)  
+AI driving efficiency coach for vehicles that provides real-time coaching. It focuses on predictive energy optimization for better vehicle performance.
+
+- **Crosswater**  
+[https://roxanneardary.com/crosswater/](https://roxanneardary.com/crosswater/)  
+An open-source autonomous amphibious vehicle platform designed to operate across land and water. It uses electric propulsion, modular hardware, and an open autonomy stack.
+
+- **DashHub**  
+[https://roxanneardary.com/dashhub/](https://roxanneardary.com/dashhub/)  
+An open source universal automotive dashboard platform. It retrofits any vehicle into a modular, connected, and future-ready smart system.
+
+- **DrivePass**  
+[https://roxanneardary.com/drivepass/](https://roxanneardary.com/drivepass/)  
+An open-source, privacy-first vehicle access platform. It replaces traditional key fobs with encrypted, identity-based authentication and secure remote start control.
+
+- **FluxGrid Infrastructure**  
+[https://roxanneardary.com/fluxgridinfrastructure/](https://roxanneardary.com/fluxgridinfrastructure/)  
+An open-source wireless EV charging and intelligent grid system. It enables autonomous, cable-free vehicle charging with integrated safety, thermal, and energy management layers.
+
+- **FluxCore Mobility**  
+[https://roxanneardary.com/fluxcore-mobility/](https://roxanneardary.com/fluxcore-mobility/)  
+A modular, encrypted edge AI vehicle intelligence system. It is built for consent-bound, privacy-first autonomous and assisted driving.
+
+- **FuelAI**  
+[https://roxanneardary.com/fuelai/](https://roxanneardary.com/fuelai/)  
+An open-source platform that uses AI to find the cheapest way to power journeys. It compares real-time energy prices and optimizes routes accordingly.
+
+- **LumenAudio**  
+[https://roxanneardary.com/lumenaudio/](https://roxanneardary.com/lumenaudio/)  
+A modular AI-driven audio mesh for modern vehicles. It unifies streaming services, open-source media, and local sources into a voice-controlled, context-aware infotainment system.
+
+- **Odessa Drive**  
+[https://roxanneardary.com/odessadrive/](https://roxanneardary.com/odessadrive/)  
+Open-source intelligence for the road using an AI-powered system. It voice-tracks mileage, fuel, and repairs while maintaining IRS-compliant records.
+
+- **Open Aerial Autonomous Safety System (OAASS)**  
+[https://roxanneardary.com/open-aerial-autonomous-safety-system/](https://roxanneardary.com/open-aerial-autonomous-safety-system/)  
+A modular open-source autonomous mobility safety platform. It combines multi-sensor perception, predictive collision avoidance, and emergency aerial escape systems.
+
+- **Orbital Drive**  
+[https://roxanneardary.com/orbital-drive/](https://roxanneardary.com/orbital-drive/)  
+An open-source regenerative energy framework for electric vehicles. It explores coordinated energy recovery from motion, airflow, braking, heat, and solar input.
+
+- **PatentCortex**  
+[https://roxanneardary.com/patentcortex/](https://roxanneardary.com/patentcortex/)  
+The brain behind engineered systems that transforms complex patents. It creates structured, searchable engineering intelligence.
+
+- **PathAI**  
+[https://roxanneardary.com/pathai/](https://roxanneardary.com/pathai/)  
+An AI-powered fleet compliance platform. It automatically tracks GPS data to generate real-time compliance reports, optimize routes, and improve logistics safety.
+
+- **PathCore AI**  
+[https://roxanneardary.com/pathcoreai/](https://roxanneardary.com/pathcoreai/)  
+An open-source, voice-driven navigation intelligence system. It delivers conversational, privacy-first, predictive routing for smart vehicles.
+
+- **Project SynthesisMotion**  
+[https://roxanneardary.com/project-synthesismotion/](https://roxanneardary.com/project-synthesismotion/)  
+An open-source adaptive motion intelligence framework. It unifies real-time vehicle identity modeling, physics-informed control, and safety-verified autonomous systems.
+
+- **PulseDrive**  
+[https://roxanneardary.com/pulsedrive/](https://roxanneardary.com/pulsedrive/)  
+An open-source, AI-assisted driver safety system. It verifies sobriety and continuously monitors driver identity and attention using edge AI.
+
+- **RegenMatrix**  
+[https://roxanneardary.com/regenmatrix/](https://roxanneardary.com/regenmatrix/)  
+AI-controlled regenerative energy system for vehicles. It optimizes energy recovery and efficiency.
+
+- **RoadSage**  
+[https://roxanneardary.com/roadsage/](https://roxanneardary.com/roadsage/)  
+An open-source AI vehicle intelligence system. It monitors real-time mechanical behavior to predict failures and enable proactive maintenance.
+
+- **StoneBack**  
+[https://roxanneardary.com/stoneback/](https://roxanneardary.com/stoneback/)  
+An open-source, repairable rear-vision system for vehicles. It combines industrial-grade imaging, split camera-and-compute architecture, and a fully open software stack.
+
+- **TerraRoam**  
+[https://roxanneardary.com/terraroam/](https://roxanneardary.com/terraroam/)  
+An AI-powered, vehicle-aware open-source travel intelligence platform. It supports safe routing, camping discovery, and real-time trip planning.
+
+- **TrueRoute**  
+[https://roxanneardary.com/trueroute/](https://roxanneardary.com/trueroute/)  
+An open-source, vehicle-aware navigation and travel intelligence platform. It combines real-time routing, scenic exploration, offline navigation, and AI-powered trip planning.
+
+- **TruthVIN**  
+[https://roxanneardary.com/truthvin/](https://roxanneardary.com/truthvin/)  
+An open-source, transparent vehicle valuation system. It replaces opaque pricing guides with real market data and verifiable algorithms.
+
+- **Vehicle Overlay System (VOS)**  
+[https://roxanneardary.com/vehicle-overlay-system/](https://roxanneardary.com/vehicle-overlay-system/)  
+A universal retrofit platform that adds secure AI and connectivity. It provides edge computing capabilities to any vehicle without modifying safety-critical systems.
+
+- **VoltMesh**  
+[https://roxanneardary.com/voltmesh/](https://roxanneardary.com/voltmesh/)  
+An open-source mobility platform that replaces proprietary in-car systems. It creates a universal, hardware-agnostic mesh network for vehicle intelligence and EV optimization.
+
+- **Wayfare**  
+[https://roxanneardary.com/wayfare/](https://roxanneardary.com/wayfare/)  
+An open-source mobility platform for owners to earn with rides. It provides transparent pricing, real-time availability, and local discovery features for riders.
+
+## License & Notice Requirements
+
+Open Arsenal Automotive Specs are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
+By contributing to any project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.   
+  Any update that adds new contributors or modifies attribution should also update `notice.md`. 
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
