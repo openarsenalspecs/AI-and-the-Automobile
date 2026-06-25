@@ -4,8 +4,8 @@ Open Arsenal specifications are designed to operate across a wide range of deplo
 
 All Open Arsenal specifications are distributed under the GNU Affero General Public License v3.0 or later (AGPL-3.0+). Use, modification, and deployment are permitted at no cost provided the required attribution is preserved in accordance with Section 7 of the license. For organizations seeking to implement a specification without attribution obligations, Specification Branding Licenses are available. Licensing terms are evaluated based on factors such as the specification being adopted, deployment scale, operational scope, and network size, providing options suitable for everything from small independent projects to enterprise, commercial, and institutional deployments.
 
-- **Open Arsenal Hub**  
-[https://github.com/openarsenalspecs/Open-Arsenal](https://github.com/openarsenalspecs/Open-Arsenal)
+##  Open Arsenal Specification Repos
+
 - **AI and the Automobile**  
 [https://github.com/openarsenalspecs/AI-and-the-Automobile](https://github.com/openarsenalspecs/AI-and-the-Automobile)  
 - **AI Infrastructure**  
@@ -14,7 +14,8 @@ All Open Arsenal specifications are distributed under the GNU Affero General Pub
 [https://github.com/openarsenalspecs/Blockchain](https://github.com/openarsenalspecs/Blockchain)
 - **Real Estate**  
 [https://github.com/openarsenalspecs/Real-Estate](https://github.com/openarsenalspecs/Real-Estate)
-
+- **Wiki**  
+[https://github.com/openarsenalspecs/Wiki](https://github.com/openarsenalspecs/Wiki)
 
 ---
 
@@ -33,3 +34,8 @@ Please note the following:
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+
+**Open Arsenal Hub**  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
