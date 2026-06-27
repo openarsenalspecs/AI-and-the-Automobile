@@ -43,7 +43,9 @@ All Open Arsenal specifications are distributed under the GNU Affero General Pub
 - **Civic Tech**  
 [https://github.com/openarsenalspecs/Civic-Tech](https://github.com/openarsenalspecs/Civic-Tech)
 - **Legal**  
-[https://github.com/openarsenalspecs/Legal](https://github.com/openarsenalspecs/Legal)  
+[https://github.com/openarsenalspecs/Legal](https://github.com/openarsenalspecs/Legal)
+- **Health**  
+[https://github.com/openarsenalspecs/Health](https://github.com/openarsenalspecs/Health)  
 
 ---
 
