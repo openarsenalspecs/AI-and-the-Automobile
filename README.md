@@ -85,7 +85,7 @@ An open-source adaptive motion intelligence framework. It unifies real-time vehi
 [https://roxanneardary.com/pulsedrive/](https://roxanneardary.com/pulsedrive/)  
 An open-source, AI-assisted driver safety system. It verifies sobriety and continuously monitors driver identity and attention using edge AI.
 
-- **RegenMatrix**  
+- [**RegenMatrix Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/e09abdeb960cfd0e5b3de4a3073e96a2fb93ab6d/RegenMatrix.md)  
 [https://roxanneardary.com/regenmatrix/](https://roxanneardary.com/regenmatrix/)  
 AI-controlled regenerative energy system for vehicles. It optimizes energy recovery and efficiency.
 
