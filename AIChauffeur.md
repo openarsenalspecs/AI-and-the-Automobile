@@ -108,7 +108,7 @@ Designed for integration with:
 
 ---
 
-# RegenMatrix Integration
+# [RegenMatrix](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/e09abdeb960cfd0e5b3de4a3073e96a2fb93ab6d/RegenMatrix.md) Integration
 
 AIChauffeur is designed to integrate with **RegenMatrix**, an open-source AI-controlled regenerative energy recovery platform.
 
