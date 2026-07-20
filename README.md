@@ -25,7 +25,7 @@ Across the specifications, the focus is on building automotive AI through open, 
 [https://roxanneardary.com/aichauffeur/](https://roxanneardary.com/aichauffeur/)  
 AI driving efficiency coach for vehicles that provides real-time coaching. It focuses on predictive energy optimization for better vehicle performance.
 
-- **Crosswater**  
+- [**Crosswater Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/d0d90098ff65a24f635a00204408cef4f1e7578b/Crosswater.md)    
 [https://roxanneardary.com/crosswater/](https://roxanneardary.com/crosswater/)  
 An open-source autonomous amphibious vehicle platform designed to operate across land and water. It uses electric propulsion, modular hardware, and an open autonomy stack.
 
