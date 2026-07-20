@@ -21,7 +21,7 @@ Across the specifications, the focus is on building automotive AI through open, 
 
 ## Automotive Specs
 
-- **AIChauffeur**  
+- [**AIChauffeur** Module Specification](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/eec18480b8a39b7ed91f31b42f36358db6a4d5d7/AIChauffeur.md) 
 [https://roxanneardary.com/aichauffeur/](https://roxanneardary.com/aichauffeur/)  
 AI driving efficiency coach for vehicles that provides real-time coaching. It focuses on predictive energy optimization for better vehicle performance.
 
