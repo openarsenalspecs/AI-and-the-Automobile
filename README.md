@@ -37,13 +37,13 @@ An open source universal automotive dashboard platform. It retrofits any vehicle
 [https://roxanneardary.com/drivepass/](https://roxanneardary.com/drivepass/)  
 An open-source, privacy-first vehicle access platform. It replaces traditional key fobs with encrypted, identity-based authentication and secure remote start control.
 
-- **FluxGrid Infrastructure**  
-[https://roxanneardary.com/fluxgridinfrastructure/](https://roxanneardary.com/fluxgridinfrastructure/)  
-An open-source wireless EV charging and intelligent grid system. It enables autonomous, cable-free vehicle charging with integrated safety, thermal, and energy management layers.
-
 - **FluxCore Mobility**  
 [https://roxanneardary.com/fluxcore-mobility/](https://roxanneardary.com/fluxcore-mobility/)  
 A modular, encrypted edge AI vehicle intelligence system. It is built for consent-bound, privacy-first autonomous and assisted driving.
+
+- **FluxGrid Infrastructure**  
+[https://roxanneardary.com/fluxgridinfrastructure/](https://roxanneardary.com/fluxgridinfrastructure/)  
+An open-source wireless EV charging and intelligent grid system. It enables autonomous, cable-free vehicle charging with integrated safety, thermal, and energy management layers.
 
 - **FuelAI**  
 [https://roxanneardary.com/fuelai/](https://roxanneardary.com/fuelai/)  
