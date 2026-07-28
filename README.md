@@ -101,7 +101,7 @@ An open-source, repairable rear-vision system for vehicles. It combines industri
 [https://roxanneardary.com/terraroam/](https://roxanneardary.com/terraroam/)  
 An AI-powered, vehicle-aware open-source travel intelligence platform. It supports safe routing, camping discovery, and real-time trip planning.
 
-- **TrueRoute**  
+- [**TrueRoute Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/b530b82e1567eddb93c7ed645c23a68d2aaa28cb/TrueRoute.md)    
 [https://roxanneardary.com/trueroute/](https://roxanneardary.com/trueroute/)  
 An open-source, vehicle-aware navigation and travel intelligence platform. It combines real-time routing, scenic exploration, offline navigation, and AI-powered trip planning.
 
