@@ -33,7 +33,7 @@ An open-source autonomous amphibious vehicle platform designed to operate across
 [https://roxanneardary.com/dashhub/](https://roxanneardary.com/dashhub/)  
 An open source universal automotive dashboard platform. It retrofits any vehicle into a modular, connected, and future-ready smart system.
 
-- **DrivePass**  
+- [**DrivePass Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/ffc40785f792d71464b10c224fecc992f9a31480/DrivePass.md)    
 [https://roxanneardary.com/drivepass/](https://roxanneardary.com/drivepass/)  
 An open-source, privacy-first vehicle access platform. It replaces traditional key fobs with encrypted, identity-based authentication and secure remote start control.
 
