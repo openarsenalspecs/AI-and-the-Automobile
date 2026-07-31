@@ -77,7 +77,7 @@ An AI-powered fleet compliance platform. It automatically tracks GPS data to gen
 [https://roxanneardary.com/pathcoreai/](https://roxanneardary.com/pathcoreai/)  
 An open-source, voice-driven navigation intelligence system. It delivers conversational, privacy-first, predictive routing for smart vehicles.
 
-- **Project SynthesisMotion**  
+- [**Project SynthesisMotion Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/ddcfe30a05f8ae9c114bb068f26839353b609b6d/Project%20SynthesisMotion.md)    
 [https://roxanneardary.com/project-synthesismotion/](https://roxanneardary.com/project-synthesismotion/)  
 An open-source adaptive motion intelligence framework. It unifies real-time vehicle identity modeling, physics-informed control, and safety-verified autonomous systems.
 
