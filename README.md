@@ -117,7 +117,7 @@ A universal retrofit platform that adds secure AI and connectivity. It provides 
 [https://roxanneardary.com/voltmesh/](https://roxanneardary.com/voltmesh/)  
 An open-source mobility platform that replaces proprietary in-car systems. It creates a universal, hardware-agnostic mesh network for vehicle intelligence and EV optimization.
 
-- **Wayfare**  
+- [**Wayfare Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/1bd4959eb4d7b92f408e06fb5bf7a258b24192c7/Wayfare.md)    
 [https://roxanneardary.com/wayfare/](https://roxanneardary.com/wayfare/)  
 An open-source mobility platform for owners to earn with rides. It provides transparent pricing, real-time availability, and local discovery features for riders.
 
