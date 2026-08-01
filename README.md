@@ -93,7 +93,7 @@ AI-controlled regenerative energy system for vehicles. It optimizes energy recov
 [https://roxanneardary.com/roadsage/](https://roxanneardary.com/roadsage/)  
 An open-source AI vehicle intelligence system. It monitors real-time mechanical behavior to predict failures and enable proactive maintenance.
 
-- **StoneBack**  
+- [**StoneBack Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/88f5a54caa2e745123ddacaf0ea20433cabfb764/StoneBack.md)    
 [https://roxanneardary.com/stoneback/](https://roxanneardary.com/stoneback/)  
 An open-source, repairable rear-vision system for vehicles. It combines industrial-grade imaging, split camera-and-compute architecture, and a fully open software stack.
 
@@ -120,6 +120,8 @@ An open-source mobility platform that replaces proprietary in-car systems. It cr
 - [**Wayfare Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/1bd4959eb4d7b92f408e06fb5bf7a258b24192c7/Wayfare.md)    
 [https://roxanneardary.com/wayfare/](https://roxanneardary.com/wayfare/)  
 An open-source mobility platform for owners to earn with rides. It provides transparent pricing, real-time availability, and local discovery features for riders.
+
+---  
 
 ## License & Notice Requirements
 
