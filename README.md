@@ -49,7 +49,7 @@ An open-source wireless EV charging and intelligent grid system. It enables auto
 [https://roxanneardary.com/fuelai/](https://roxanneardary.com/fuelai/)  
 An open-source platform that uses AI to find the cheapest way to power journeys. It compares real-time energy prices and optimizes routes accordingly.
 
-- **LumenAudio**  
+- [**LumenAudio Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/e0348ed2f3219dbea90524ad419d20fbe483af41/LumenAudio.md)    
 [https://roxanneardary.com/lumenaudio/](https://roxanneardary.com/lumenaudio/)  
 A modular AI-driven audio mesh for modern vehicles. It unifies streaming services, open-source media, and local sources into a voice-controlled, context-aware infotainment system.
 
