@@ -57,7 +57,7 @@ A modular AI-driven audio mesh for modern vehicles. It unifies streaming service
 [https://roxanneardary.com/odessadrive/](https://roxanneardary.com/odessadrive/)  
 Open-source intelligence for the road using an AI-powered system. It voice-tracks mileage, fuel, and repairs while maintaining IRS-compliant records.
 
-- **Open Aerial Autonomous Safety System (OAASS)**  
+- [**Open Aerial Autonomous Safety System Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/cb1aaf966d7aca8d8245b823b00f8da239a3e56b/Open%20Aerial%20Autonomous%20Safety%20System.md)    
 [https://roxanneardary.com/open-aerial-autonomous-safety-system/](https://roxanneardary.com/open-aerial-autonomous-safety-system/)  
 A modular open-source autonomous mobility safety platform. It combines multi-sensor perception, predictive collision avoidance, and emergency aerial escape systems.
 
