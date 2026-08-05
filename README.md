@@ -37,9 +37,9 @@ An open source universal automotive dashboard platform. It retrofits any vehicle
 [https://roxanneardary.com/drivepass/](https://roxanneardary.com/drivepass/)  
 An open-source, privacy-first vehicle access platform. It replaces traditional key fobs with encrypted, identity-based authentication and secure remote start control.
 
-- **FluxCore Mobility**  
+- [**FluxCore Mobility Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/025a13f4108bbf553182821d384785fde9892750/FluxCore%20Mobility.md)    
 [https://roxanneardary.com/fluxcore-mobility/](https://roxanneardary.com/fluxcore-mobility/)  
-A modular, encrypted edge AI vehicle intelligence system. It is built for consent-bound, privacy-first autonomous and assisted driving.
+A modular, encrypted edge AI vehicle intelligence system. It is built for consent-bound, privacy-first autonomous and assisted driving.  
 
 - **FluxGrid Infrastructure**  
 [https://roxanneardary.com/fluxgridinfrastructure/](https://roxanneardary.com/fluxgridinfrastructure/)  
