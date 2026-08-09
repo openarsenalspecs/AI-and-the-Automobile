@@ -69,7 +69,7 @@ An open-source regenerative energy framework for electric vehicles. It explores 
 [https://roxanneardary.com/patentcortex/](https://roxanneardary.com/patentcortex/)  
 The brain behind engineered systems that transforms complex patents. It creates structured, searchable engineering intelligence.
 
-- **PathAI**  
+- [**PathAI Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/acfae240cc7f82b41985713ecd762c1fc9bb8add/PathAI.md)    
 [https://roxanneardary.com/pathai/](https://roxanneardary.com/pathai/)  
 An AI-powered fleet compliance platform. It automatically tracks GPS data to generate real-time compliance reports, optimize routes, and improve logistics safety.
 
