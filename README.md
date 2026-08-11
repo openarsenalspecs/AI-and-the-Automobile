@@ -105,9 +105,9 @@ An AI-powered, vehicle-aware open-source travel intelligence platform. It suppor
 [https://roxanneardary.com/trueroute/](https://roxanneardary.com/trueroute/)  
 An open-source, vehicle-aware navigation and travel intelligence platform. It combines real-time routing, scenic exploration, offline navigation, and AI-powered trip planning.
 
-- **TruthVIN**  
+- [**TruthVIN Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/c934a0cfa44542790221096a4185c5da7d94018b/TruthVIN.md)    
 [https://roxanneardary.com/truthvin/](https://roxanneardary.com/truthvin/)  
-An open-source, transparent vehicle valuation system. It replaces opaque pricing guides with real market data and verifiable algorithms.
+An open-source, transparent vehicle valuation system. It replaces opaque pricing guides with real market data and verifiable algorithms.  
 
 - [**Vehicle Overlay System Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/f43820555695204705e42542eccdf05e9b01b8cc/Vehicle%20Overlay%20System.md)   
 [https://roxanneardary.com/vehicle-overlay-system/](https://roxanneardary.com/vehicle-overlay-system/)  
