@@ -97,7 +97,7 @@ An open-source AI vehicle intelligence system. It monitors real-time mechanical 
 [https://roxanneardary.com/stoneback/](https://roxanneardary.com/stoneback/)  
 An open-source, repairable rear-vision system for vehicles. It combines industrial-grade imaging, split camera-and-compute architecture, and a fully open software stack.
 
-- **TerraRoam**  
+- [**TerraRoam Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/b6e36fabc12f4ae385e6a3b79fc8e1cac2feb0da/TerraRoam.md)    
 [https://roxanneardary.com/terraroam/](https://roxanneardary.com/terraroam/)  
 An AI-powered, vehicle-aware open-source travel intelligence platform. It supports safe routing, camping discovery, and real-time trip planning.
 
