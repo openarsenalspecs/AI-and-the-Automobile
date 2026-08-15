@@ -1,5 +1,8 @@
 # Wayfare 
 **Own the Ride. Share the Road.**
+- HTML Mirror:  [https://roxanneardary.com/wayfare-specification/](https://roxanneardary.com/wayfare-specification/)
+
+---
 
 Wayfare is an **open source, owner-first mobility platform** designed to connect riders with autonomous vehicles and human-driven transportation providers through a transparent, community-driven ecosystem.
 
