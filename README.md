@@ -121,7 +121,15 @@ An open-source mobility platform that replaces proprietary in-car systems. It cr
 [https://roxanneardary.com/wayfare/](https://roxanneardary.com/wayfare/)  
 An open-source mobility platform for owners to earn with rides. It provides transparent pricing, real-time availability, and local discovery features for riders.
 
----  
+---
+
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/ai-and-the-automobile/](https://roxanneardary.com/ai-and-the-automobile/)
+
+Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.  
+
+---
 
 ## License & Notice Requirements
 
