@@ -19,6 +19,26 @@ The **AI and the Automobile** collection defines a set of specifications for emb
 
 Across the specifications, the focus is on building automotive AI through open, interoperable frameworks supported by rigorous safety engineering. This includes shared development practices, simulation-based testing, validation pipelines, and human oversight to manage uncertainty and edge cases. Together, the system is designed as a layered model of autonomy, redundancy, diagnostics, and secure updates to enable dependable large-scale deployment.
 
+---
+
+### Specification FAQs
+
+**The Open Arsenal specifications are designed as foundations, not disposable products.** They define reusable architectures that can be implemented, extended, combined, modified, and adapted to changing technologies and real-world requirements. Modular design allows individual capabilities to evolve without forcing an entire system to be replaced, while vendor-neutral architecture helps preserve independence and interoperability.
+
+**Long-term infrastructure requires long-term thinking.** Open-source licensing encourages examination, reuse, modification, and collaboration, while perpetual commercial licensing can provide organizations with lasting rights to deploy a specification without making foundational infrastructure dependent on recurring licensing renewals. The objective is to create technological foundations that can remain useful as companies, technologies, platforms, and business models change.
+
+1. [Understanding the Specifications](https://roxanneardary.com/understanding-the-specifications/)
+2. [How the Specifications Are Designed](https://roxanneardary.com/how-the-specifications-are-designed/)
+3. [Building From a Specification](https://roxanneardary.com/building-from-a-specification/)
+4. [Why Modularity Matters for the Future](https://roxanneardary.com/why-modularity-matters-for-the-future/)
+5. [Interoperability and Independence](https://roxanneardary.com/interoperability-and-independence/)
+6. [Open Source and Licensing](https://roxanneardary.com/open-source-and-licensing/)
+7. [Perpetual Licensing](https://roxanneardary.com/perpetual-licensing/)
+8. [The Bigger Vision](https://roxanneardary.com/the-bigger-vision/)
+9. [Specification Branding License](https://roxanneardary.com/specification-branding-license/)
+
+---
+
 ## Automotive Specs
 
 - [**AIChauffeur Module Specification**](https://github.com/openarsenalspecs/AI-and-the-Automobile/blob/eec18480b8a39b7ed91f31b42f36358db6a4d5d7/AIChauffeur.md)  
